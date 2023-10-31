@@ -1,0 +1,9 @@
+{
+  "name": "blogapp",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "web": "nodemon app.js",
+    "server": "mongod"
+  }
+}
