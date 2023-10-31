@@ -1,7 +1,7 @@
-<h1 align="center"> Short-Summary </h1>
+<h1 align="center"> BlogApp </h1>
 
 <p>
-O Short-Summary é uma ferramenta para geração de resumos de vídeos curtos do YouTube. Ele permite aos usuários extrair as informações essenciais de vídeos, tornando mais fácil acompanhar o conteúdo sem a necessidade de assistir o vídeo completo. 
+O Blog App 
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ O Short-Summary é uma ferramenta para geração de resumos de vídeos curtos do
 <br>
 
 <p align="center">
-  <img alt="projeto Short-Summary" src=".github/preview.png" width="100%">
+  <img alt="projeto BlogApp" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
