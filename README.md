@@ -17,7 +17,7 @@ O BlogApp é uma projeto para compartilhar ideias e pensamentos. Ele oferece uma
 <br>
 
 <p align="center">
-  <img alt="projeto BlogApp" src=".github/preview.png" width="100%">
+  <img alt="projeto BlogApp" src=".github/blogapp.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
