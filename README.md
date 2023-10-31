@@ -1,7 +1,7 @@
 <h1 align="center"> BlogApp </h1>
 
 <p>
-O Blog App 
+O BlogApp é uma projeto para compartilhar ideias e pensamentos. Ele oferece uma interface intuitiva e de fácil acesso.
 </p>
 
 <p align="center">
@@ -27,11 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Inteligências Artificiais
-
-## 💻 Projeto
-
-Short Summary é uma plataforma que oferece resumos breves de vídeos curtos do YouTube, economizando seu tempo e destacando o conteúdo mais importante.
+- HandleBars
+- MongoDB
+- MySql
 
 ## :memo: Licença
 
