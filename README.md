@@ -1,13 +1,9 @@
-<h1 align="center"> BlogApp </h1>
-
-<p>
-O BlogApp é uma projeto para compartilhar ideias e pensamentos. Ele oferece uma interface intuitiva e de fácil acesso.
-</p>
+<h1 align="center"> Blog App </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -17,12 +13,12 @@ O BlogApp é uma projeto para compartilhar ideias e pensamentos. Ele oferece uma
 <br>
 
 <p align="center">
-  <img alt="projeto BlogApp" src=".github/blogapp.png" width="100%">
+  <img alt="Blog App" src="./.github/blogapp.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - JavaScript
@@ -33,8 +29,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - MongoDB
 - MySql
 
-## :memo: Licença
+## 💻 Project
 
-Esse projeto está sob a licença MIT.
+- Project given by Victor Lima in YouTube to practice many technologies 
 
----
+- [Access the playlist](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+
+## :memo: License
+
+This project is under the MIT license.
