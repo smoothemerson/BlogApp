@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-- [Access the playlist](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+- [Access the playlist course](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
 
 ## :memo: License
 
