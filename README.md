@@ -31,8 +31,6 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-- Project given by Victor Lima in YouTube to practice many technologies 
-
 - [Access the playlist](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
 
 ## :memo: License
